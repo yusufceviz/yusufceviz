@@ -1,16 +1,25 @@
-## Hi there 👋
+Kullanılan Teknolojiler
 
-<!--
-**yusufceviz/yusufceviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *CodeIgniter*: PHP tabanlı MVC framework, proje altyapısı.
+- *HTML/CSS*: Web sayfalarının yapılandırılması ve stilize edilmesi için.
+- *MySQL*: Veritabanı yönetimi ve ilişkisel veri depolama.
+- *MongoDB*: NoSQL veritabanı, veri depolama ve hızlı sorgulama işlemleri için.
+- *Git/GitHub*: Sürüm kontrolü ve proje paylaşımı için.
 
-Here are some ideas to get you started:
+Projede, aşağıdaki geliştirmeler ve yenilikler yapılmıştır:
+- Eski site altyapısının CodeIgniter framework'ü ile yeniden yapılandırılması.
+- Kullanıcı arayüzünün HTML ve CSS ile modernize edilmesi.
+- Veritabanı yönetiminin MySQL ve MongoDB ile daha verimli hale getirilmesi.
+- Performans optimizasyonları ve hata düzeltmeleri.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Gereksinimler:
+- PHP (v7.3 ve üstü)
+- CodeIgniter (v4.x)
+- MySQL
+- MongoDB
+- Composer (PHP bağımlılık yönetimi için )
+- 
+Eyüp Han Çiçek 2313201051
+Duygu Beyza Esği 2313201034
+Yusuf Gül 2313201031
+Rıdvan Yusuf Ceviz 2313201040
